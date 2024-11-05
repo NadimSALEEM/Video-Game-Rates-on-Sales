@@ -101,6 +101,11 @@ This analysis follows a structured approach:
 - **Correlation Between Ratings and Global Sales**: The analysis found statistically significant correlations between ratings and global sales (p-values < 0.05). This suggests a moderate relationship, where higher ratings are associated with increased global sales.
 - **Observations from Plots**: Visualizations indicate that as user and MetaCritic reviews increase, there is a corresponding rise in global sales, implying that positive feedback may contribute to higher sales figures.
 
+<div align="center">
+    <img src="rating_sales_correlation.png" alt="Correlation Between Ratings and Sales" width="45%">
+    <img src="rating_sales_linear.png" alt="Regional Sales Trends" width="45%">
+</div>
+
 ### Regional Sales Differences
 
 - **Regional Preferences**: Different regions exhibit distinct preferences for games and platforms. In Japan, Nintendo and PlayStation dominate, while in North America and Europe, a variety of platforms, including Xbox, show strong sales.
