@@ -11,6 +11,7 @@ This repository contains a data analysis project exploring how product ratings a
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [Results](#results)
+- [Contributing](#Contributing)
 
 ## Overview
 
